@@ -1,0 +1,25 @@
+{
+  "name": "finalproserver",
+  "version": "1.0.0",
+  "description": "API for finalProPractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-reilly/Final-Project-Practice-Server.git"
+  },
+  "author": "Lilli Reilly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-reilly/Final-Project-Practice-Server/issues"
+  },
+  "homepage": "https://github.com/l-reilly/Final-Project-Practice-Server#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cloudinary": "^1.28.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
